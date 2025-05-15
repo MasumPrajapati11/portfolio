@@ -1,0 +1,1 @@
+import{j as t,m as a}from"./index-tWTbGT9E.js";const n={initial:{opacity:0,y:20},in:{opacity:1,y:0},out:{opacity:0,y:-20}},o={type:"tween",ease:"anticipate",duration:.5},e=({children:i})=>t.jsx(a.div,{initial:"initial",animate:"in",exit:"out",variants:n,transition:o,children:i});export{e as P};
